@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eshohet/Intro-to-Solidity.git"
+    "url": "git+https://github.com/elliotshohet/Intro-to-Solidity.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/eshohet/Intro-to-Solidity/issues"
+    "url": "https://github.com/elliotshohet/Intro-to-Solidity/issues"
   },
-  "homepage": "https://github.com/eshohet/Intro-to-Solidity#readme",
+  "homepage": "https://github.com/elliotshohet/Intro-to-Solidity#readme",
   "dependencies": {},
   "devDependencies": {
     "concurrently": "^3.5.1",
